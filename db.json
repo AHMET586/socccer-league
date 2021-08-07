@@ -2,171 +2,99 @@
   "data": [
     {
       "id": 85,
-      "legacy_id": 146,
       "name": "København",
       "short_code": "COP",
-      "twitter": null,
-      "country_id": 320,
-      "national_team": false,
       "founded": 1992,
       "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/21/85.png",
-      "venue_id": 5655,
-      "current_season_id": 17328,
-      "is_placeholder": false
+      "departman_name": "Mobile Department"
     },
     {
       "id": 211,
-      "legacy_id": 631,
       "name": "Horsens",
       "short_code": "ACH",
-      "twitter": null,
-      "country_id": 320,
-      "national_team": false,
       "founded": 1994,
       "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/19/211.png",
-      "venue_id": 5661,
-      "current_season_id": 17328,
-      "is_placeholder": false
+      "departman_name": "Web Department"
     },
     {
       "id": 293,
-      "legacy_id": null,
       "name": "Brøndby",
       "short_code": "SLO",
-      "twitter": null,
-      "country_id": 320,
-      "national_team": false,
       "founded": 1964,
       "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/5/293.png",
-      "venue_id": 5659,
-      "current_season_id": 17328,
-      "is_placeholder": false
+      "departman_name": "Accounting Department"
     },
     {
       "id": 390,
-      "legacy_id": null,
       "name": "SønderjyskE",
       "short_code": "SON",
-      "twitter": null,
-      "country_id": 320,
-      "national_team": false,
       "founded": 2004,
       "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/6/390.png",
-      "venue_id": 5653,
-      "current_season_id": 17328,
-      "is_placeholder": false
+      "departman_name": "Cleaning Department"
     },
     {
       "id": 939,
-      "legacy_id": 513,
       "name": "Midtjylland",
       "short_code": "FCM",
-      "twitter": null,
-      "country_id": 320,
-      "national_team": false,
       "founded": 1999,
       "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/11/939.png",
-      "venue_id": 342,
-      "current_season_id": 17328,
-      "is_placeholder": false
+      "departman_name": "Food Department"
     },
     {
       "id": 1020,
-      "legacy_id": 173,
       "name": "AaB",
       "short_code": "AAB",
-      "twitter": null,
-      "country_id": 320,
-      "national_team": false,
       "founded": 1885,
       "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/28/1020.png",
-      "venue_id": 85765,
-      "current_season_id": 17328,
-      "is_placeholder": false
+      "departman_name": "Analyst Department"
     },
     {
       "id": 1789,
-      "legacy_id": 520,
       "name": "OB",
       "short_code": "ODE",
-      "twitter": null,
-      "country_id": 320,
-      "national_team": false,
       "founded": 1889,
       "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/29/1789.png",
-      "venue_id": 214349,
-      "current_season_id": 17328,
-      "is_placeholder": false
+      "departman_name": "Call Center Department"
     },
     {
       "id": 2356,
-      "legacy_id": 514,
       "name": "Randers",
       "short_code": "RDF",
-      "twitter": null,
-      "country_id": 320,
-      "national_team": false,
       "founded": 2003,
       "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/20/2356.png",
-      "venue_id": 318820,
-      "current_season_id": 17328,
-      "is_placeholder": false
+      "departman_name": "Advertising and Marketing Department"
     },
     {
       "id": 2394,
-      "legacy_id": null,
       "name": "Nordsjælland",
       "short_code": "FCN",
-      "twitter": null,
-      "country_id": 320,
-      "national_team": false,
       "founded": 2003,
       "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/26/2394.png",
-      "venue_id": 1436,
-      "current_season_id": 17328,
-      "is_placeholder": false
-    },
+      "departman_name": "Tester Department"
+     },
     {
       "id": 2650,
-      "legacy_id": 627,
       "name": "Lyngby",
       "short_code": "LBB",
-      "twitter": null,
-      "country_id": 320,
-      "national_team": false,
       "founded": 1921,
       "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/26/2650.png",
-      "venue_id": 1576,
-      "current_season_id": 17328,
-      "is_placeholder": false
+      "departman_name": "Planning and Organization Department"
     },
     {
       "id": 2905,
-      "legacy_id": 629,
       "name": "AGF",
       "short_code": "AGF",
-      "twitter": null,
-      "country_id": 320,
-      "national_team": false,
       "founded": 1902,
       "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/25/2905.png",
-      "venue_id": 1708,
-      "current_season_id": 17328,
-      "is_placeholder": false
+      "departman_name": "Network and Support Department"
     },
     {
       "id": 7466,
-      "legacy_id": 635,
       "name": "Vejle",
       "short_code": null,
-      "twitter": null,
-      "country_id": 320,
-      "national_team": false,
       "founded": 1891,
       "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/10/7466.png",
-      "venue_id": 4832,
-      "current_season_id": 17328,
-      "is_placeholder": false
+      "departman_name": "Database Department"
     }
   ],
   "meta": {
