@@ -6,7 +6,7 @@
       "short_code": "COP",
       "founded": 1992,
       "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/21/85.png",
-      "departman_name": "Mobile Department"
+      "department_name": "Mobile Department"
     },
     {
       "id": 211,
@@ -14,7 +14,7 @@
       "short_code": "ACH",
       "founded": 1994,
       "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/19/211.png",
-      "departman_name": "Web Department"
+      "department_name": "Web Department"
     },
     {
       "id": 293,
@@ -22,7 +22,7 @@
       "short_code": "SLO",
       "founded": 1964,
       "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/5/293.png",
-      "departman_name": "Accounting Department"
+      "department_name": "Accounting Department"
     },
     {
       "id": 390,
@@ -30,7 +30,7 @@
       "short_code": "SON",
       "founded": 2004,
       "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/6/390.png",
-      "departman_name": "Cleaning Department"
+      "department_name": "Cleaning Department"
     },
     {
       "id": 939,
@@ -38,7 +38,7 @@
       "short_code": "FCM",
       "founded": 1999,
       "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/11/939.png",
-      "departman_name": "Food Department"
+      "department_name": "Food Department"
     },
     {
       "id": 1020,
@@ -46,7 +46,7 @@
       "short_code": "AAB",
       "founded": 1885,
       "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/28/1020.png",
-      "departman_name": "Analyst Department"
+      "department_name": "Analyst Department"
     },
     {
       "id": 1789,
@@ -54,7 +54,7 @@
       "short_code": "ODE",
       "founded": 1889,
       "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/29/1789.png",
-      "departman_name": "Call Center Department"
+      "department_name": "Call Center Department"
     },
     {
       "id": 2356,
@@ -62,7 +62,7 @@
       "short_code": "RDF",
       "founded": 2003,
       "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/20/2356.png",
-      "departman_name": "Advertising and Marketing Department"
+      "department_name": "Advertising and Marketing Department"
     },
     {
       "id": 2394,
@@ -70,7 +70,7 @@
       "short_code": "FCN",
       "founded": 2003,
       "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/26/2394.png",
-      "departman_name": "Tester Department"
+      "department_name": "Tester Department"
      },
     {
       "id": 2650,
@@ -78,7 +78,7 @@
       "short_code": "LBB",
       "founded": 1921,
       "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/26/2650.png",
-      "departman_name": "Planning and Organization Department"
+      "department_name": "Planning and Organization Department"
     },
     {
       "id": 2905,
@@ -86,7 +86,7 @@
       "short_code": "AGF",
       "founded": 1902,
       "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/25/2905.png",
-      "departman_name": "Network and Support Department"
+      "department_name": "Network and Support Department"
     },
     {
       "id": 7466,
@@ -94,7 +94,7 @@
       "short_code": null,
       "founded": 1891,
       "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/10/7466.png",
-      "departman_name": "Database Department"
+      "department_name": "Database Department"
     }
   ],
   "meta": {
