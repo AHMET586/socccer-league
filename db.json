@@ -1,5 +1,4 @@
-{
-    "teams": [
+ [
     {
       "id": 85,
       "name": "København",
@@ -97,4 +96,3 @@
       "department_name": "Database Department"
     }
   ]
-}
