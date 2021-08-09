@@ -1,5 +1,5 @@
 {
-  "data": [
+  "teams": [
     {
       "id": 85,
       "name": "København",
@@ -97,32 +97,4 @@
       "department_name": "Database Department"
     }
   ],
-  "meta": {
-    "plans": [
-      {
-        "name": "Free Plan",
-        "request_limit": "180,60"
-      }
-    ],
-    "sports": [
-      {
-        "id": 1,
-        "name": "Soccer",
-        "current": true
-      },
-      {
-        "id": 6,
-        "name": "Cricket",
-        "current": false
-      }
-    ],
-    "pagination": {
-      "total": 12,
-      "count": 12,
-      "per_page": 100,
-      "current_page": 1,
-      "total_pages": 1,
-      "links": {}
-    }
-  }
 }
