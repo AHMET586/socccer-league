@@ -4,95 +4,83 @@
       "name": "København",
       "short_code": "COP",
       "founded": 1992,
-      "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/21/85.png",
-      "department_name": "Mobile Department"
+      "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/21/85.png"
     },
     {
       "id": 211,
       "name": "Horsens",
       "short_code": "ACH",
       "founded": 1994,
-      "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/19/211.png",
-      "department_name": "Web Department"
+      "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/19/211.png"
     },
     {
       "id": 293,
       "name": "Brøndby",
       "short_code": "SLO",
       "founded": 1964,
-      "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/5/293.png",
-      "department_name": "Accounting Department"
+      "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/5/293.png"
     },
     {
       "id": 390,
       "name": "SønderjyskE",
       "short_code": "SON",
       "founded": 2004,
-      "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/6/390.png",
-      "department_name": "Cleaning Department"
+      "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/6/390.png"
     },
     {
       "id": 939,
       "name": "Midtjylland",
       "short_code": "FCM",
       "founded": 1999,
-      "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/11/939.png",
-      "department_name": "Food Department"
+      "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/11/939.png"
     },
     {
       "id": 1020,
       "name": "AaB",
       "short_code": "AAB",
       "founded": 1885,
-      "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/28/1020.png",
-      "department_name": "Analyst Department"
+      "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/28/1020.png"
     },
     {
       "id": 1789,
       "name": "OB",
       "short_code": "ODE",
       "founded": 1889,
-      "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/29/1789.png",
-      "department_name": "Call Center Department"
+      "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/29/1789.png"
     },
     {
       "id": 2356,
       "name": "Randers",
       "short_code": "RDF",
       "founded": 2003,
-      "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/20/2356.png",
-      "department_name": "Advertising and Marketing Department"
+      "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/20/2356.png"
     },
     {
       "id": 2394,
       "name": "Nordsjælland",
       "short_code": "FCN",
       "founded": 2003,
-      "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/26/2394.png",
-      "department_name": "Tester Department"
+      "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/26/2394.png"
      },
     {
       "id": 2650,
       "name": "Lyngby",
       "short_code": "LBB",
       "founded": 1921,
-      "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/26/2650.png",
-      "department_name": "Planning and Organization Department"
+      "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/26/2650.png"
     },
     {
       "id": 2905,
       "name": "AGF",
       "short_code": "AGF",
       "founded": 1902,
-      "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/25/2905.png",
-      "department_name": "Network and Support Department"
+      "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/25/2905.png"
     },
     {
       "id": 7466,
       "name": "Vejle",
       "short_code": null,
       "founded": 1891,
-      "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/10/7466.png",
-      "department_name": "Database Department"
+      "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/10/7466.png"
     }
   ]
