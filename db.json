@@ -1,7 +1,7 @@
  [
     {
       "id": 85,
-      "name": "København",
+      "name": "Kobenhavn",
       "short_code": "COP",
       "founded": 1992,
       "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/21/85.png",
@@ -17,7 +17,7 @@
     },
     {
       "id": 293,
-      "name": "Brøndby",
+      "name": "Brondby",
       "short_code": "SLO",
       "founded": 1964,
       "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/5/293.png",
@@ -25,7 +25,7 @@
     },
     {
       "id": 390,
-      "name": "SønderjyskE",
+      "name": "SonderjyskE",
       "short_code": "SON",
       "founded": 2004,
       "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/6/390.png",
@@ -65,7 +65,7 @@
     },
     {
       "id": 2394,
-      "name": "Nordsjælland",
+      "name": "Nordsjalland",
       "short_code": "FCN",
       "founded": 2003,
       "logo_path": "https://cdn.sportmonks.com/images//soccer/teams/26/2394.png",
