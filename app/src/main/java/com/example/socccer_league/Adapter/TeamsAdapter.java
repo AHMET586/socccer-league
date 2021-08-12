@@ -44,7 +44,7 @@ public class TeamsAdapter extends RecyclerView.Adapter<TeamsAdapter.teamsViewHol
         holder.name.setText("Name: " + teams.getName());
         holder.shortName.setText("Short Name: " + teams.getShortCode());
         holder.departmentName.setText("Department: " + teams.getDepartmentName());
-        holder.founded.setText("Department: " + teams.getFounded());
+        holder.founded.setText("Founded: " + teams.getFounded());
 
         Glide.with(context)
                 .load(teams.getLogo())
