@@ -15,6 +15,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import androidx.viewpager2.widget.ViewPager2;
 
 import com.example.socccer_league.Adapter.FixtureAdapter;
+import com.example.socccer_league.Adapter.FixtureRowAdapter;
 import com.example.socccer_league.Adapter.TeamsAdapter;
 import com.example.socccer_league.Model.Fixture;
 import com.example.socccer_league.Model.FixtureGenerator;
@@ -30,7 +31,6 @@ import java.util.List;
 public class FixtureActivity extends AppCompatActivity {
 
     private TeamsViewModel teamsViewModel;
-    private RecyclerView recyclerView;
     private List<Teams> teamsList;
     private TeamsRepository TeamsRepository;
     private FixtureAdapter fixtureAdapter;
@@ -39,13 +39,7 @@ public class FixtureActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_fixture);
-        /*
-        recyclerView=findViewById(R.id.recyclerview);
-        recyclerView.setHasFixedSize(true);
-        recyclerView.setLayoutManager(new LinearLayoutManager(this));
-        recyclerView.setItemAnimator(new DefaultItemAnimator());
 
-         */
         TeamsRepository=new TeamsRepository(getApplication());
         teamsList=new ArrayList<>();
         ViewPager2 viewPager2 = findViewById(R.id.item_fixture);
@@ -55,7 +49,6 @@ public class FixtureActivity extends AppCompatActivity {
         teamsViewModel.getGetAllTeams().observe(this, new Observer<List<Teams>>() {
             @Override
             public void onChanged(List<Teams> teamsList) {
-               // recyclerView.setAdapter(fixtureAdapter);
                 viewPager2.setAdapter(fixtureAdapter);
                 fixtureAdapter.getAllTeams(teamsList);
 

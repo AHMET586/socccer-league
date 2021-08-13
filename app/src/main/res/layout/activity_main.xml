@@ -8,26 +8,25 @@
     tools:context=".MainActivity">
 
     <androidx.recyclerview.widget.RecyclerView
+
         android:id="@+id/recyclerview"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginBottom="4dp"
         android:background="#fff"
-        app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintBottom_toTopOf="@+id/btn_fixture"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
+        tools:layout_editor_absoluteX="0dp"
         tools:listitem="@layout/team_row" />
 
     <Button
         android:id="@+id/btn_fixture"
-        android:layout_width="0dp"
+        android:layout_width="411dp"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="20dp"
-        android:text="Fixture"
         android:layout_alignParentBottom="true"
+        android:layout_marginBottom="8dp"
+        android:text="Fixture"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent" />
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

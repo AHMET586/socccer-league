@@ -44,17 +44,20 @@ public class MainActivity extends AppCompatActivity  implements View.OnClickList
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
         recyclerView=findViewById(R.id.recyclerview);
         recyclerView.setHasFixedSize(true);
         recyclerView.setLayoutManager(new LinearLayoutManager(this));
         recyclerView.setItemAnimator(new DefaultItemAnimator());
+
         TeamsRepository=new TeamsRepository(getApplication());
         teamsList=new ArrayList<>();
         teamsAdapter=new TeamsAdapter(this,teamsList, this);
-        btnFixture = (Button) findViewById(R.id.btn_fixture);
-        btnFixture.setOnClickListener(this);
-        teamsViewModel=new ViewModelProvider(this).get(TeamsViewModel.class);
+        btnFixture = (Button) findViewById(R.id.btn_fixture);//Hariç.
+        btnFixture.setOnClickListener(this);//Hariç
+        teamsViewModel=new ViewModelProvider(this).get(TeamsViewModel.class);//harşiç
         TeamsRepository.networkRequest();
+        //Bura kadar.
         teamsViewModel.getGetAllTeams().observe(this, new Observer<List<Teams>>() {
             @Override
             public void onChanged(List<Teams> teamsList) {
