@@ -45,6 +45,7 @@ public class FixtureAdapter extends RecyclerView.Adapter<FixtureAdapter.ViewHold
     public void onBindViewHolder(ViewHolder holder, int position) {
         FixtureGenerator<String> fixtureGenerator = new FixtureGenerator();
         List<String> teams = new LinkedList<String>();
+        List<String> logosTeams = new LinkedList<String>();
         List<String> roundTeams = new LinkedList<String>();
         for (Teams teamsName : teamslist) {
             teams.add(teamsName.getName());
@@ -60,7 +61,16 @@ public class FixtureAdapter extends RecyclerView.Adapter<FixtureAdapter.ViewHold
                 roundTeams.add(fixture.getHomeTeam());
                 roundTeams.add(fixture.getAwayTeam());
             }
-            fixtureRowAdapter=new FixtureRowAdapter(context.getApplicationContext(), roundTeams,(roundTeams.size()/2));
+            for (String str : roundTeams) {
+                for (Teams teamsName : teamslist)
+                {
+                    if(str.equals(teamsName.getName()))
+                    {
+                        logosTeams.add(teamsName.getLogo());
+                    }
+                }
+            }
+            fixtureRowAdapter=new FixtureRowAdapter(context.getApplicationContext(), roundTeams,round.size(),logosTeams);
             holder.recyclerView.setAdapter(fixtureRowAdapter);
             break;
         }
