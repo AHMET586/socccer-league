@@ -50,9 +50,8 @@ public class FixtureActivity extends AppCompatActivity {
             @Override
             public void onChanged(List<Teams> teamsList) {
                 viewPager2.setAdapter(fixtureAdapter);
+                Collections.shuffle(teamsList);
                 fixtureAdapter.getAllTeams(teamsList);
-
-                Log.d("main", "onChanged: "+teamsList);
             }
         });
     }
